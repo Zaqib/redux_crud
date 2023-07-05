@@ -1,0 +1,41 @@
+.textField {
+  margin-bottom: 20px;
+}
+/*Show Radio Button in Row*/
+.MuiFormGroup-root {
+  display: block !important;
+}
+
+.form-container {
+  margin-top: 100px;
+}
+.form-heading {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  color: rgb(90, 156, 176);
+}
+
+.form-heading:hover {
+  color: rgb(196, 225, 65);
+}
+
+.submit-button {
+  width: 300px;
+  opacity: 0.5;
+}
+
+.submit-button:hover {
+  border-radius: 300px;
+  color: aqua;
+  opacity: 1;
+}
+
+.showUser {
+  margin-top: 200px;
+}
+
+.updateDelBtn {
+  cursor: pointer;
+  color: black;
+  font-weight: bold;
+}
